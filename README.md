@@ -8,6 +8,10 @@ Works for the following languages:
 - Javascript (and TypeScript)
 - Rust
 
+## Installation
+
+`cargo install --git https://github.com/davidMuir/clean-deps.git`
+
 ## Usage
 
 ```sh
